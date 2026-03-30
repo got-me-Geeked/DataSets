@@ -1,0 +1,14 @@
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\bin\Debug\net10.0\MAX_PAIR_IN_GRAPH.deps.json
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\bin\Debug\net10.0\MAX_PAIR_IN_GRAPH.runtimeconfig.json
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\MAX_PAIR_IN_GRAPH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\MAX_PAIR_IN_GRAPH.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\MAX_PAIR_IN_GRAPH.AssemblyInfo.cs
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\MAX_PAIR_IN_GRAPH.genruntimeconfig.cache
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\bin\Debug\net10.0\MAX_PAIR_IN_GRAPH.exe
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\bin\Debug\net10.0\MAX_PAIR_IN_GRAPH.dll
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\bin\Debug\net10.0\MAX_PAIR_IN_GRAPH.pdb
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\MAX_PAIR_IN_GRAPH.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\MAX_PAIR_IN_GRAPH.dll
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\refint\MAX_PAIR_IN_GRAPH.dll
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\MAX_PAIR_IN_GRAPH.pdb
+C:\Users\elias\source\repos\MAX_PAIR_IN_GRAPH\obj\Debug\net10.0\ref\MAX_PAIR_IN_GRAPH.dll

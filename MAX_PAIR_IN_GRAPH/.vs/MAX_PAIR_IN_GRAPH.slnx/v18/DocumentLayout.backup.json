@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\services\\comparisonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:services\\comparisonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\services\\graphinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:services\\graphinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\algorithms\\kuhn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:algorithms\\kuhn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\models\\matchingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:models\\matchingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\services\\helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:services\\helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|c:\\users\\elias\\source\\repos\\max_pair_in_graph\\models\\bipartitegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB7203-7B96-A340-9A77-DF6A2F1684A9}|MAX_PAIR_IN_GRAPH.csproj|solutionrelative:models\\bipartitegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:22:35.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonService.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\JsonService.cs",
+              "RelativeDocumentMoniker": "Services\\JsonService.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\JsonService.cs",
+              "RelativeToolTip": "Services\\JsonService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:07:37.618Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphInputService.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\GraphInputService.cs",
+              "RelativeDocumentMoniker": "Services\\GraphInputService.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\GraphInputService.cs",
+              "RelativeToolTip": "Services\\GraphInputService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAywBQAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:01:14.961Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComparisonService.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\ComparisonService.cs",
+              "RelativeDocumentMoniker": "Services\\ComparisonService.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\ComparisonService.cs",
+              "RelativeToolTip": "Services\\ComparisonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:08:31.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "Services\\RecommendationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T10:22:21.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kuhn.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Algorithms\\Kuhn.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Kuhn.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Algorithms\\Kuhn.cs",
+              "RelativeToolTip": "Algorithms\\Kuhn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:22:55.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelpService.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\HelpService.cs",
+              "RelativeDocumentMoniker": "Services\\HelpService.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Services\\HelpService.cs",
+              "RelativeToolTip": "Services\\HelpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:22:36.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BipartiteGraph.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Models\\BipartiteGraph.cs",
+              "RelativeDocumentMoniker": "Models\\BipartiteGraph.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Models\\BipartiteGraph.cs",
+              "RelativeToolTip": "Models\\BipartiteGraph.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:31:32.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatchingResult.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Models\\MatchingResult.cs",
+              "RelativeDocumentMoniker": "Models\\MatchingResult.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\MAX_PAIR_IN_GRAPH\\Models\\MatchingResult.cs",
+              "RelativeToolTip": "Models\\MatchingResult.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:15:10.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

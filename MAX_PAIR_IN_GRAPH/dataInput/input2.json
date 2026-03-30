@@ -1,0 +1,5 @@
+{
+  "LeftCount": 4,
+  "RightCount": 3,
+  "Adjacency": [[0], [0, 1], [1], [2]]
+}
