@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MAX_PAIR_IN_GRAPH/MAX_PAIR_IN_GRAPH.csproj" />
+  <Project Path="Test_MAX_PAIR_IN_GRAPH.csproj" />
+</Solution>
